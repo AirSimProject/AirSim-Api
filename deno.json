@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "strict": true
+    },
+    "tasks": {
+        "deploy": "echo todo"
+    }
+}
